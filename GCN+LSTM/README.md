@@ -50,7 +50,7 @@ Place the following files in the project root directory
 
 ### 2. Run Training
 
-# Run training script
+Run training script
 python train.py
 
 ### 3. Training Parameters
