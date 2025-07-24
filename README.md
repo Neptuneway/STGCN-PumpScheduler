@@ -40,6 +40,8 @@ This repository contains the core modules for implementing the STOPS framework:
 
 Each subdirectory contains the detailed code for the corresponding module. To run a specific module, please refer to the README file within that directory for specific instructions and guidelines.
 
+To ensure data security, the config.py files have been removed from each module. Please contact us if you require access to these configuration files.
+
 ## Citation
 
 If you use the code or ideas from this project in your research, please consider citing our paper.
