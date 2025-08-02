@@ -45,5 +45,5 @@ To ensure data security, the config.py files have been removed from each module.
 ## Citation
 
 If you use the code or ideas from this project in your research, please consider citing our paper.
-
+https://doi.org/10.1016/j.wroa.2025.100388. 
 
